@@ -1,0 +1,23 @@
+h1{
+  color: #777; 
+  padding: 5px;
+  border-radius: 10px ; 
+  border: 2px solid;
+}
+
+h1:hover{
+  background-color:#fff ;
+  border: 2px solid #fff000;
+}
+
+img{
+  width: 300px;
+}
+
+body{
+  background-color: #0e2007;
+}
+
+
+
+
